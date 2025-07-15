@@ -7,7 +7,7 @@ bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
   background-attachment: fixed
-heroText: 代码拍档
+heroText: JavaCode
 tagline: 「Java学习 + 实战项目 + 面试指南」 Java 程序员需要掌握的核心知识
 actions:
   - text: 开始学习
