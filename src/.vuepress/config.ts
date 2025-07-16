@@ -6,7 +6,7 @@ export default defineUserConfig({
   base: "/",
 
   lang: "zh-CN",
-  title: "我的简历",
+  title: "JavaCode",
   description: "关于我自己的学习成长经历",
 
   theme,

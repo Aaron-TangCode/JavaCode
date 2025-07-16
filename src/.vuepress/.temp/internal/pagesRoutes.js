@@ -2,7 +2,6 @@ export const pagesRoutes = [
   ["v-8daa1a0e","/",{"y":"h","t":"主页","i":"home"},["/README.md"]],
   ["v-2e3eac9e","/slides.html",{"y":"s","t":"幻灯片页","i":"person-chalkboard"},[":md"]],
   ["v-1d59d0e6","/md/resume.html",{"y":"a","t":"个人简历","i":"laptop-code","I":0},[":md"]],
-  ["v-7c27fd02","/md/dev-log/",{"y":"a","t":"开发日志","i":"laptop-code"},["/md/dev-log/README.md"]],
   ["v-49312a44","/md/dev-log/day01.html",{"y":"a","t":"Day01","i":"laptop-code","I":0},[":md"]],
   ["v-45c77906","/md/dev-log/day02.html",{"y":"a","t":"Day02","i":"laptop-code","I":0},[":md"]],
   ["v-425dc7c8","/md/dev-log/day03.html",{"y":"a","t":"Day03","i":"laptop-code","I":0},[":md"]],
@@ -13,6 +12,7 @@ export const pagesRoutes = [
   ["v-c97ab98e","/md/dev-log/day09~day10.html",{"y":"a","t":"Day09 ~ Day10","i":"laptop-code","I":0},[":md"]],
   ["v-104da61f","/md/dev-log/day11.html",{"y":"a","t":"Day011","i":"laptop-code","I":0},[":md"]],
   ["v-12027ebe","/md/dev-log/day12.html",{"y":"a","t":"Day012","i":"laptop-code","I":0},[":md"]],
+  ["v-7c27fd02","/md/dev-log/",{"y":"a","t":"开发日志","i":"laptop-code"},["/md/dev-log/README.md"]],
   ["v-3706649a","/404.html",{"y":"p","t":""},[]],
   ["v-2d0aa3df","/md/",{"y":"p","t":"Md"},[]],
 ]

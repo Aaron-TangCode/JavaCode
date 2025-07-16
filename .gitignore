@@ -9,3 +9,4 @@
 .DS_Store
 *.iml
 pom.xml
+node_modules
