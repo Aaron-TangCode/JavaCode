@@ -35,4 +35,6 @@ export const pagesData = {
   "v-6489c910": () => import(/* webpackChunkName: "v-6489c910" */"E:/ideaProject/dtc-tech-blog/docs/.vuepress/.temp/pages/interview-guide/index.html.js").then(({ data }) => data),
   // path: /404.html
   "v-3706649a": () => import(/* webpackChunkName: "v-3706649a" */"E:/ideaProject/dtc-tech-blog/docs/.vuepress/.temp/pages/404.html.js").then(({ data }) => data),
+  // path: /javacode/use-suggesttion.html
+  "v-7a3cc56e": () => import(/* webpackChunkName: "v-7a3cc56e" */"E:/ideaProject/dtc-tech-blog/docs/.vuepress/.temp/pages/javacode/use-suggesttion.html.js").then(({ data }) => data),
 }

@@ -37,4 +37,6 @@ export const pagesComponents = {
   "v-6489c910": defineAsyncComponent(() => import(/* webpackChunkName: "v-6489c910" */"E:/ideaProject/dtc-tech-blog/docs/.vuepress/.temp/pages/interview-guide/index.html.vue")),
   // path: /404.html
   "v-3706649a": defineAsyncComponent(() => import(/* webpackChunkName: "v-3706649a" */"E:/ideaProject/dtc-tech-blog/docs/.vuepress/.temp/pages/404.html.vue")),
+  // path: /javacode/use-suggesttion.html
+  "v-7a3cc56e": defineAsyncComponent(() => import(/* webpackChunkName: "v-7a3cc56e" */"E:/ideaProject/dtc-tech-blog/docs/.vuepress/.temp/pages/javacode/use-suggesttion.html.vue")),
 }

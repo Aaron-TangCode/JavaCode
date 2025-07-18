@@ -15,6 +15,7 @@ export const pagesRoutes = [
   ["v-347da915","/interview-guide/day11.html",{"y":"a","t":"Day11","i":"laptop-code","I":0},[":md"]],
   ["v-363281b4","/interview-guide/day12.html",{"y":"a","t":"Day12","i":"laptop-code","I":0},[":md"]],
   ["v-37e75a53","/interview-guide/day13.html",{"y":"a","t":"Day13","i":"laptop-code","I":0},[":md"]],
-  ["v-6489c910","/interview-guide/",{"y":"a","t":"JavaCode（面试指南）","i":"laptop-code"},["/interview-guide/README.md"]],
+  ["v-6489c910","/interview-guide/",{"y":"a","t":"JavaCode（面试指北）","i":"laptop-code"},["/interview-guide/README.md"]],
   ["v-3706649a","/404.html",{"y":"p","t":""},[]],
+  ["v-7a3cc56e","/javacode/use-suggesttion.html",{"y":"a","t":"使用建议","i":"star"},[":md"]],
 ]
