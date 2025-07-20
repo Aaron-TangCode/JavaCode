@@ -17,7 +17,7 @@ category:
 
 朋友突然收到业务的反馈，在创建账户时，显示如下异常：
 
-![JSON问题-截图2](/Users/yebing/Downloads/JSON问题-截图2.jpg)
+[//]: # (![JSON问题-截图2]&#40;/Users/yebing/Downloads/JSON问题-截图2.jpg&#41;)
 
 朋友说看到这个截图的第一反应就是这个Bug肯定和序列化有关系。
 

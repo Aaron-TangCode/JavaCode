@@ -1,7 +1,6 @@
 <template><div><h1 id="哎哟-这个bug-有点东西" tabindex="-1"><a class="header-anchor" href="#哎哟-这个bug-有点东西" aria-hidden="true">#</a> 哎哟！这个Bug，有点东西</h1>
 <p>有一个朋友和我聊天时，我们聊起了最近线上出现的Bug。他的分享中，比较经典的Bug是这样子的：</p>
 <p>朋友突然收到业务的反馈，在创建账户时，显示如下异常：</p>
-<figure><img src="/Users/yebing/Downloads/JSON问题-截图2.jpg" alt="JSON问题-截图2" tabindex="0" loading="lazy"><figcaption>JSON问题-截图2</figcaption></figure>
 <p>朋友说看到这个截图的第一反应就是这个Bug肯定和序列化有关系。</p>
 <p>异常中提到了特定的信息：</p>
 <p>method: getManagerIdCard</p>
