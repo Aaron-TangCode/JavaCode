@@ -1,7 +1,7 @@
 ---
 title: 使用建议
 category: 走近项目
-icon: star
+icon: java
 ---
 
 **给没打算面试的同学看：**

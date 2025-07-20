@@ -18,7 +18,7 @@ export default sidebar({
       text: "Java",
       icon: "laptop-code",
       collapsible: true,
-      prefix: "interview-guide/",
+      prefix: "java/",
       children: [
         {
           text: "基础知识",

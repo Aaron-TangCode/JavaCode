@@ -10,7 +10,9 @@ export default hopeTheme({
     url: "https://space.bilibili.com/317080675",
   },
 
-  iconAssets: "fontawesome-with-brands",
+
+  iconAssets: "//at.alicdn.com/t/c/font_4979631_j2gwmf5l4jn.css",
+
 
   logo: "/logo.svg",
 

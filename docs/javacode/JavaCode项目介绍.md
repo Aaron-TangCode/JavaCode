@@ -1,6 +1,7 @@
 ---
 title: 项目介绍
 index: false
+icon: java
 category:
   - 走近项目
 ---
