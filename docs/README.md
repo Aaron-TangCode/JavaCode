@@ -8,7 +8,7 @@ heroImage: /logo.png
 bgImageStyle:
   background-attachment: fixed
 heroText: JavaCode
-tagline: 「Java学习 + 实战项目 + 面试指南」 Java 程序员需要掌握的核心知识
+tagline: 「Java学习 + 实战项目 + 面试指北」 Java 程序员需要掌握的核心知识
 actions:
   - text: 开始学习
     link: /interview-guide

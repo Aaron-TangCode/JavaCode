@@ -14,7 +14,7 @@ export default hopeTheme({
 
   logo: "/logo.svg",
 
-  repo: "fuzhengwei/xfg-resume-blog",
+  repo: "Aaron-TangCode/dtc-tech-blog",
 
   docsDir: "src",
 
@@ -24,7 +24,7 @@ export default hopeTheme({
   // sidebar
   sidebar,
 
-  footer: "我的微信：fustack",
+  footer: "我的微信：datoucai996",
 
   displayFooter: true,
 
